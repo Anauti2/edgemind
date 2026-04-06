@@ -1,0 +1,6 @@
+edgemind/
+ ├── main.py
+ ├── reasoning.py
+ ├── gemma.py
+ ├── app.py
+ └── requirements.txt
